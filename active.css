@@ -91,6 +91,12 @@ html {
     padding: 5% 0;
 }
 
+.area a{
+  position: absolute;
+  font-family: 'impact';
+  font-size: 200px;
+  text-align: center;
+  margin-top: 200px;
 .area h2 {
   position: absolute;
     font-family: 'Impact';
